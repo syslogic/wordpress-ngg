@@ -1,4 +1,6 @@
 wordpress-ngg
 =============
 
-WordPress Installer for Pagoda Box
+PagodaBox Quickstart:
+
+Installs WordPress with NextGEN Gallery
