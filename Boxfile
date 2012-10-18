@@ -4,6 +4,8 @@ web1:
     - mysql
     - curl
     - zip
+    - exif
+    - gd
   shared_writable_dirs:
     - wp-content/uploads/
     - wp-content/gallery/
